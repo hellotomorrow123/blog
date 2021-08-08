@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>程波的博客</title>
+  
+  <subtitle>桃李不言，下自成蹊</subtitle>
+  <link href="http://www.cbstudy.top/atom.xml" rel="self"/>
+  
+  <link href="http://www.cbstudy.top/"/>
+  <updated>2021-08-08T08:13:12.794Z</updated>
+  <id>http://www.cbstudy.top/</id>
+  
+  <author>
+    <name>程波</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>相册</title>
+    <link href="http://www.cbstudy.top/2019/01/01/index/"/>
+    <id>http://www.cbstudy.top/2019/01/01/index/</id>
+    <published>2019-01-01T00:00:00.000Z</published>
+    <updated>2021-08-08T08:13:12.794Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" href="https://cdn.bootcss.com/KaTeX/0.6.0/katex.min.css">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.bootcss.com/KaTeX/0.6.0/katex.min.css&quot;&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
