@@ -1,0 +1,17 @@
+# language
+zh-CN:
+  # items
+  favicon:
+    show: 我又回来啦！
+    hide: 我躲起来了！
+
+  menu:
+    home: 首页
+    posts: 文章
+    archives: 归档
+    categories: 分类
+    tags: 标签
+    about: 关于
+    friends: 友链
+    links: 链接
+    search: 搜索
