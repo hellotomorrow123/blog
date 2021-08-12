@@ -108,7 +108,10 @@ theme: shoka
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.hellotomorrow123.io
+  branch: main
+  message: 
 
 # 缺少这个插件，首页卡片翻转效果在部分浏览器中无法正确显示。
 autoprefixer:
