@@ -2,7 +2,7 @@
 title: 第2周 判断
 date: 2020/04/13 19:12:45
 categories:
-- [计算机科学, Java, 零基础学Java语言-浙江大学-翁恺]
+- [Java, 笔记]
 tags:
 ---
 
@@ -74,7 +74,6 @@ switch (type)
 }
 ```
 - 计算switch后面的控制表达式以后，程序会跳到相应的case，但是如果这个case内部没有break，那么在执行完语句后，就会顺序执行到下面的case，直到遇到break或者switch结束。
-	
 # 小测验
 
 1. 写出以下代码段的执行结果： {.quiz .essay}
