@@ -3,7 +3,8 @@ title: Java的4种内部类
 date: 2021/08/18 20:46:25
 categories:
 - [Java, 笔记]
-tags:内部类
+tags:
+- 内部类
 ---
 
 内部类的4个种类：
