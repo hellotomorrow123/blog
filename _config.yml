@@ -74,6 +74,8 @@ category_map:
   笔记: note
   算法: algorithm
   闲谈: other
+  css: css
+  html: html
 tag_map:
 
 # Metadata elements
