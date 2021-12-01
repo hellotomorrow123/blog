@@ -180,9 +180,9 @@ minify:
 
 # 站内搜索功能
 algolia:
-  appId: 9UUT6Q7HEI
-  apiKey: f1f34ac40858af2e835442f2e3dfc99b
-  adminApiKey: 018463396be643fcf405ead01f3ae191
+  appId: 7F6SHGN7NN
+  apiKey: 04c901385ecb9ae16e1a08420d6cd93f
+  adminApiKey: f438f996054f92356c8f97be6f6c688e
   chunkSize: 5000
   indexName: "shoka"
   fields:
